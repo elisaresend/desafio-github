@@ -1,0 +1,51 @@
+	GIT
+
+01) Introdução
+
+- É um sistema de versões distribuido (gerencia alterações em código fonte);
+- Criado em 2005 pelo engenheiro de software Linus Torvalds (desenvolvedor do Linux);
+- Usado para controlar o histórico e alterações de arquivos e/ou projetos;
+- Um sistema seguro, dificilmente haverá alguma perda.
+- Benefícios: 
+		  Desempenho
+		  Segurança
+		  Aperfeiçoamento do código
+		  Trabalho em equipe de forma rápida e inteligente
+		  Lidar com projetos grandes de forma eficiente
+		  Armazenamento dos metadados e o banco de dados de objetos do projeto		  
+
+02) Alguns Comandos Importantes
+
+-git clone (cópia idêntica da versão recente de um projeto)
+-git add (adicionar um único arquivo)
+-git add -A (adicionar todos arquivos)
+-git commit - m "colocar aqui uma mensagem breve sobre o que é o commit" (salva as alterações no espaço de trabalho local)
+-git branch (permite criar, listar, renomear e excluir ramificações do seu código)
+-git checkout (trocar de branch)
+-git status (informações necessárias sobre a atual branch)
+-git push (faz o upload dos commits no repositório remoto)
+-git revert (desfazer os commits)
+
+	GITHUB
+
+03) Introdução
+-É um projeto de gestão baseado em nuvem;
+-Uma plataforma para gerenciar seu código e arquivos com o controle de versão usando o GIT;
+-Os desenvolvedores podem acompanhar e gerenciar as mudanças feitas em tempo real no código-fonte;
+-Benefícios:
+		 Melhora o fluxo de trabalho e a colaboração entre os desenvolvedores;
+
+04) Dica
+Veja e reveja tutoriais;
+Pratique e faça você mesmo;
+Tente várias vezes até conseguir entender cada passo.
+
+05) Links para Download
+https://git-scm.com/downloads
+
+06) Tutorial como instalar
+Youtube: https://www.youtube.com/watch?v=mmcOw2ynWEs
+@influentech
+
+07) Site do github
+https://github.com/
